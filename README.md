@@ -29,6 +29,16 @@ Google Form → Google Sheets → Gmail
 User submits form → Email sent automatically
 
 ## 👩‍💻 Author
+## 📸 Screenshots
+
+### 🔹 Workflow (n8n)
+![Workflow](workflow.png)
+
+### 🔹 Email Output
+![Email](email-output.png)
+
+### 🔹 Google Sheets Data
+![Sheet](sheet-data.png)
 
 Preeti
 
