@@ -1,35 +1,33 @@
-# n8n-email-automation
-Google Form to Gmail automation using n8
-# n8n Email Automation 🚀
+
+# n8n Email Automation 
 
 This project automates sending emails when a user submits a Google Form.
 
-## 📌 Workflow
+##  Workflow
 
 Google Form → Google Sheets → Gmail
 
-## ⚙️ Features
+##  Features
 
 * Automatic email replies
 * Real-time trigger using Google Sheets
 * Personalized emails using dynamic data
 
-## 🛠️ Tools Used
+##  Tools Used
 
 * n8n
 * Google Sheets
 * Gmail
 
-## 📂 Files
+##  Files
 
 * My workflow.json (main automation workflow)
 
-## 📸 Output
+##  Output
 
 User submits form → Email sent automatically
 
-## 👩‍💻 Author
-## 📸 Screenshots
+##  Screenshots
 
 ### 🔹 Workflow (n8n)
 ![Workflow](workflow.png)
@@ -39,6 +37,6 @@ User submits form → Email sent automatically
 
 ### 🔹 Google Sheets Data
 ![Sheet](sheet-data.png)
-
+##  Author
 Preeti
 
